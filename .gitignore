@@ -1,0 +1,10 @@
+node_modules/
+vendor/
+.env
+.env.*
+!.env.example
+dist/
+storage/*.key
+.DS_Store
+.idea/
+.vscode/
